@@ -1,0 +1,18 @@
+section{
+    padding: 20px;
+}
+
+video{
+    margin-top: 10px;
+    width: 100%;
+    float: left;
+    border: 2px solid black;
+}
+
+.home{
+    margin-top: 450px;
+}
+
+section h2{
+    padding-bottom: 5px;
+}

@@ -1,0 +1,30 @@
+figure img{
+    border: 2px solid black;
+    width: 100%;
+}
+
+section{
+    padding: 10px;
+    overflow: hidden;
+}
+
+figcaption{
+    text-align: center;
+    font-weight: bold;
+}
+
+figure{
+    margin: 10px 30px;
+    width: 90%;
+    float: left;
+    background-color: lightgrey;
+    padding-bottom: 5px;
+}
+
+section h2{
+    padding-bottom: 5px;
+}
+
+.home{
+    margin-top: 920px;
+}

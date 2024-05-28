@@ -1,0 +1,24 @@
+section{
+    padding: 20px;
+}
+
+img{
+    width: 100%;
+    border: 2px solid black;
+}
+
+.home{
+    margin-top: 1125px;
+}
+
+ol li{
+    float: left;
+    width: 28%;
+    margin: 2.5%;
+    border: 2px solid black;
+    padding: 5px;
+}
+
+h2{
+    margin-bottom: 10px;
+}

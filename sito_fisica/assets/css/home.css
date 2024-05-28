@@ -1,0 +1,11 @@
+section img{
+    border: 2px solid black;
+    float: left;
+    width: 45%;
+    margin: 2.5%;
+    height: 200px;
+}
+
+section{
+    background-color: white;
+}

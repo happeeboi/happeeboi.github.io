@@ -1,0 +1,92 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    max-width: 1000px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 0 auto;
+    background-color: lightgray;
+}
+
+main{
+    overflow: hidden;
+    display: flex;
+    align-items: stretch;
+}
+
+header {
+    text-align: center;
+    background-color: rgb(169, 181, 199);
+    padding: 20px;
+    border: 2px, black, solid;
+}
+
+header h1{
+    font-size: 40px;
+}
+
+aside{
+    float: left;
+    width: 30%;
+    background-color: rgba(100, 255, 201, 0.448);
+}
+
+section{
+    background-color:white;
+    float: left;
+    width: 70%;
+}
+
+footer{
+    background-color: rgba(25, 219, 83, 0.495);
+    padding: 10px;
+    text-align: right;
+}
+
+footer ul{
+    list-style-type: circle;
+}
+
+aside ul li{
+    padding: 5px;
+}
+
+aside ul a:hover{
+    background-color: rgb(73, 207, 147);
+    text-decoration: underline;
+}
+
+aside ul{
+    padding: 20px;
+    list-style-type: none;
+}
+
+aside a{
+    text-decoration: none;
+    color: black;
+}
+
+.leoz{
+    text-align: right;
+    margin-top: 104px;
+}
+
+.home{
+    margin-top: 260px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    border: 2px solid black;
+    padding: 0px;
+}
+
+.home a{
+    display: block;
+}
+
+.home a:hover{
+    text-decoration: none;
+}

@@ -1,0 +1,17 @@
+section{
+    padding: 20px;
+}
+
+header{
+    overflow: hidden;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+header img{
+    width: 5%;
+}
+main{
+    display: flex;
+    align-items: stretch;
+}
